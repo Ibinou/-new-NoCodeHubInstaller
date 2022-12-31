@@ -2,7 +2,7 @@
   height: 50px;
   width: 100px;
   color:white;
-  background-color: rgb(8,111,255);
+  background-image: linear-gradient(to right, #4776E6 0%, #8E54E9  51%, #4776E6  100%);
   border-radius:10px;
   display: flex;
   justify-content:center;

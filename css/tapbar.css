@@ -6,10 +6,10 @@
   width: 90%;
   display: flex;
   justify-content: space-around;
-  background-color: rgb(250 250 250 / 58%);
+  background-color: rgb(241 241 241 / 58%);
   -webkit-backdrop-filter: saturate(130%) blur(35px);
-  border-radius: 20px;
-  backdrop-filter: saturate(130%) blur(35px);
+  border-radius: 18px;
+  backdrop-filter: saturate(130%) blur(25px);
 }
 .bloc-icon {
   display: flex;

@@ -7,9 +7,9 @@
   display: flex;
   justify-content: space-around;
   background-color: rgb(241 241 241 / 58%);
-  -webkit-backdrop-filter: saturate(130%) blur(25px);
+  -webkit-backdrop-filter: saturate(130%) blur(20px);
   border-radius: 18px;
-  backdrop-filter: saturate(130%) blur(25px);
+  backdrop-filter: saturate(130%) blur(20px);
 }
 .bloc-icon {
   display: flex;

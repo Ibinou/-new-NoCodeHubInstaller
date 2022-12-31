@@ -1,3 +1,4 @@
-# LemonSt0re
+# NoCodeHub Installer
 
-A all new 3rd party AppStore made by @Ibatech1.
+With the NoCodeHub installer you are able to download NoCodeHub and see some informations about it.
+

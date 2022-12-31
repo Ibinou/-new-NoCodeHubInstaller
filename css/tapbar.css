@@ -3,13 +3,13 @@
   padding-bottom: 5px;
   padding-top: 5px;
   height: 50px;
-  width: 100%;
+  width: 90%;
   display: flex;
   justify-content: space-around;
-  background-color: rgb(255,255,255,.6);
+  background-color: rgb(250 250 250 / 58%);
   -webkit-backdrop-filter: saturate(130%) blur(35px);
+  border-radius: 20px;
   backdrop-filter: saturate(130%) blur(35px);
-  border-bottom: 1px solid rgb(238, 238, 238);
 }
 .bloc-icon {
   display: flex;

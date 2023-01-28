@@ -1,0 +1,130 @@
+{
+	"META": {
+		"repoName": "DirtyCowRepo",
+		"repoIcon": "https://github.com/Ibinou/reposcarlet/blob/main/2B4F5238-F1AB-4DE6-9823-0AD76CC2A1C8.png?raw=true"
+	},
+	"Tweaked": [{
+		"name": "Santander",
+		"version": "18.01.6",
+		"down": "https://github.com/pwnd2e/SantanderMacDirtyCow/releases/download/1.0/Santander.ipa",
+		"category": "File Manager",
+		"description": "A new, enhanced File Manager for iOS devices. You can navigate and modify a lot of system files using this app.",
+                "icon": "https://raw.githubusercontent.com/Ibinou/NoCodeHub-icons/main/5658B2AB-C7E7-4FFB-84E7-7599F0691DF1.png",
+		"contact": {
+			"web": "https://repo.twickd.com",
+			"twitter": "https://twitter.com/twickdrepo"
+		}
+	}, {
+		"name": "Cowabunga",
+		"version": "0.257.1",
+		"down": "https://github.com/leminlimez/Cowabunga/releases/download/v7.0.1/Cowabunga.ipa",
+		"category": "All in one",
+		"description": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.",
+                "icon": "https://raw.githubusercontent.com/Ibinou/reposcarlet/main/icons/Cowabunga.png", 
+	}, {
+		"name": "FileSwitcherX",
+		"version": "1.7",
+		"icon": "https://raw.githubusercontent.com/straight-tamago/FileSwitcherX/main/FileSwitcherX/Assets.xcassets/AppIcon.appiconset/100.png", 
+		"down": "https://github.com/straight-tamago/FileSwitcherX/releases/download/1.7-Final/FileSwitcherX-1.7.ipa",
+		"category": "All in one",
+		"description": "MaCirtyCow tweaks toolbox",
+	}, {
+		"name": "CCEnabler",
+		"version": "8.6.42",
+		"down": "https://github.com/Ibinou/reposcarlet/blob/main/CCEnabler%20(2).ipa?raw=true",
+		"category": "Tweak",
+		"description": "Disable and enable modules in the Control Center.",
+                "icon": "https://i0.wp.com/www.appletips.nl/wp-content/uploads/2013/09/control-center-logo-7-retina.png?resize=135%2C135&ssl=1",   
+	}, {
+		"name": "WDBFontOverwrite",
+		"version": "1.10.5",
+		"description": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.",
+		"icon": "https://raw.githubusercontent.com/ginsudev/WDBFontOverwrite/main/WDBFontOverwrite/Assets.xcassets/AppIcon.appiconset/1024%201.png",
+		"down": "https://github.com/Ibinou/reposcarlet/blob/main/WDBFontOverwrite.ipa?raw=true",
+		"category": "Tweak",
+	}, {
+		"name": "TrollLock (reborn)",
+		"version": "1.1",
+		"icon": "https://raw.githubusercontent.com/Ibinou/NoCodeHub-icons/main/1D9500C6-9CA4-4BE7-9C03-B86303711D3A.png",
+		"down": "https://github.com/haxi0/TrollLock-Reborn/releases/download/1.1/TrollLock-1.1.ipa",
+		"category": "Tweak",
+		"description": "Change the FaceID glyph.",
+		"dev": "haxi0"
+	}],
+	"Jailbreaks": [{
+			"name": "PrefsChanger",
+			"version": "1.1.6",
+			"icon": "https://senumy.com/wp-content/uploads/2023/01/PrefsChanger.jpg",
+			"down": "https://github.com/Ibinou/reposcarlet/blob/main/PrefsChanger.ipa?raw=true",
+			"dev": "AppInstalleriOS",
+			"category": "Tweak",
+			"description": "Enable supervised mode, LockScreen Footnote, debug settings etc.",
+			"screenshots": [
+				"https://pbs.twimg.com/media/FmMHnPTWAAkcZyI?format=jpg&name=large"
+			],
+			"contact": [
+				"https://appinstallerios.com/",
+				"https://twitter.com/AppInstalleriOS"
+			]
+		},
+		{
+			"name": "NoCameraSound",
+			"version": "5.8",
+			"icon": "https://raw.githubusercontent.com/straight-tamago/NoCameraSound/main/NoCameraSound/NoCameraSound/Assets.xcassets/AppIcon.appiconset/1024.png",
+			"down": "https://github.com/straight-tamago/NoCameraSound/releases/download/5.8/NoCameraSound-5.8.ipa",
+			"dev": "Straight-tamago",
+			"category": "Tweak",
+			"description": "Disable the camera sound",
+			"screenshots": [
+				"https://raw.githubusercontent.com/Ibinou/reposcarlet/main/screenshots/CCCF46B5-910E-43EE-85A8-9BEA7A0DCAD0.png",
+				"https://raw.githubusercontent.com/Ibinou/reposcarlet/main/screenshots/05C68C28-440C-4A57-A069-43927538D342.png"
+			],
+			"contact": [
+				"https://theodyssey.dev/",
+				"https://twitter.com/OdysseyTeam_"
+			]
+		},
+		{
+			"name": "DirtyCowApp",
+			"version": "1.0",
+			"description": "Tweak toolbox.",
+			"icon": "https://raw.githubusercontent.com/Ibinou/reposcarlet/main/icons/862FF1E7-C4BC-46E2-A280-87C4772663FA.png",
+			"down": "https://github.com/Ibinou/reposcarlet/blob/main/dirtycowapp.ipa?raw=true",
+			"dev": "Mineek",
+			"category": "All in one",
+			"screenshots": [
+				"https://raw.githubusercontent.com/Ibinou/reposcarlet/main/screenshots/0385E97B-E849-4786-9542-35A17B58B117.png",
+				"https://raw.githubusercontent.com/Ibinou/reposcarlet/main/screenshots/F1DECC79-003F-409D-ACC9-0B53AFB0B917.png"
+			],
+			"contact": [
+				"https://unc0ver.dev/",
+				"https://twitter.com/pwn20wnd"
+			]
+		}
+	],
+	"Hacked Games": [{
+		"name":"Little Cow",
+		"down": "https://github.com/Ibinou/reposcarlet/blob/main/LittleCow_1.2%20(3).ipa?raw=true",
+		"version":"1.2",
+		"description": "Get iPhone X gesture on non-supproted iPhone.",
+                "icon": "https://raw.githubusercontent.com/Ibinou/NoCodeHub-icons/main/094FAD48-78C6-4002-BDC0-022B598523EE.jpeg",
+		"category": "Device SubType"
+	}],
+	"Emulators": [{
+		"name": "DynamicCow",
+		"version": "1.10.8",
+		"icon": "https://raw.githubusercontent.com/matteozappia/DynamicCow/main/Images/dynamiccowiconpreview.png",
+		"down": "https://github.com/matteozappia/DynamicCow/releases/download/1.0/DynamicCow.ipa",
+		"category": "Device SubType",
+		"description": "Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit. iOS 15/14/13 are NOT and will never be supported, as this is NOT a tweak. If you have one of the above listed iOS versions, please stay away from it cause it can bootloop your device.",
+		"bundleID": "com.34306.little15"
+	}, {
+		"name": "CarMacDirtyCow",
+		"version": "1.0.1",
+		"icon": "https://raw.githubusercontent.com/xqf400/CarMacDirtyCow/main/Images/icon512.png",
+		"down": "https://github.com/xqf400/CarMacDirtyCow/releases/download/v1.0.1/CarMacDirtyCow.ipa",
+		"category": "CarPlay",
+		"description": "Use an image as wallpaper for CarPlay.",
+		"bundleID": "com.xqf.carmacdirtycow"
+	}]
+}

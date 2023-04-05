@@ -42,9 +42,8 @@
     color: rgb(000, 000, 000)
 }
 
-.card h6 {
+.card p {
     font-size: 15px;
-    margin-bottom: 10px;
     color: rgb(38, 38, 38)
 }
 
